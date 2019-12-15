@@ -32,7 +32,7 @@ Files: 1.Dataset
 
 # How to run this project
 
-This project must run in Matlab >=2014a, The following steps should be taken to run this project:
+This project must run in Matlab >=2016a, The following steps should be taken to run this project:
 1. Before running the codes, please first run "mexC.m" of the SLEP_package_4.1 to mex the related C functions. please note that if an error occurs in mex, maybe you need to download and install the C compiler to solve, such as TDM-GCC.
 2. After run "mexC.m" successfully, please run main_5_bn_246_local.m directly.
 3. After main_5_bn_246_local.m finishes running, a folder named "result" will be generated. there are four files in this folder.
