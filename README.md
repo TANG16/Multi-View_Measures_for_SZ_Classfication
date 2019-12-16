@@ -14,7 +14,7 @@ Description: This package aims to achieve the automatically diagnose subjects wi
 
 Files: 1.Dataset
 
-1. features_label_30.mat: store 5 local graph measures extracted at the threshold of 0.3 of all subjects and the corresponding labels;
+         1. features_label_30.mat: store 5 local graph measures extracted at the threshold of 0.3 of all subjects and the corresponding labels;
 
 2. Code
 
