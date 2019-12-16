@@ -18,17 +18,17 @@ Files: 1.Dataset
 
 2. Code
 
-1. libsvm-3.21(http://www.csie.ntu.edu.tw/~cjlin/libsvm/): This is an open source SVM package, the linear SVM is implemented using the libsvm-3.21 package.
+   1. libsvm-3.21(http://www.csie.ntu.edu.tw/~cjlin/libsvm/): This is an open source SVM package, the linear SVM is implemented using the libsvm-3.21 package.
 
-2. SLEP_package_4.1[1]: This is a Sparse Learning with Efficient Projections package,which implements various of sparse learning algorithms. The sparse group lasso(sgLasso) method is implemented using this package.
+   2. SLEP_package_4.1[1]: This is a Sparse Learning with Efficient Projections package,which implements various of sparse learning algorithms. The sparse group lasso(sgLasso) method is implemented using this package.
 
-3. calAUC.m: function calculating AUC values.
+   3. calAUC.m: function calculating AUC values.
 
-4. main_5_bn_246_local.m: This is a main function to load data and call the function "vote_Graph_sgLasso_abs_mean";
+   4. main_5_bn_246_local.m: This is a main function to load data and call the function "vote_Graph_sgLasso_abs_mean";
 
-5. vote_Graph_sgLasso_abs_mean.m: function conducting schizophrenia classification using multi-view graph measures;
+   5. vote_Graph_sgLasso_abs_mean.m: function conducting schizophrenia classification using multi-view graph measures;
 
-6. get_group_5_bn_local.m : function constructing grouping structures of 5 local graph measures according to the corresponding brain regions;
+   6. get_group_5_bn_local.m : function constructing grouping structures of 5 local graph measures according to the corresponding brain regions;
 
 # How to run this project
 
